@@ -139,4 +139,5 @@
 
     <script type="text/javascript" charset="UTF-8" src="js/overlay.js"></script>
     <script type="text/javascript" charset="UTF-8" src="js/UISuite.js"></script>
+    <script src="js/treeview.js"></script>
 </head>
